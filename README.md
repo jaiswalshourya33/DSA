@@ -7,7 +7,7 @@ Welcome to my DSA repository! This repository contains my solutions to various D
 ### Sliding Window
 
 #### Fixed Size Window
-- https://leetcode.com/problems/maximum-average-subarray-i/) 
+- https://leetcode.com/problems/maximum-average-subarray-i/
 - https://leetcode.com/problems/contains-duplicate-ii/
 
 
