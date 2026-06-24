@@ -10,6 +10,7 @@ Welcome to my DSA repository! This repository contains my solutions to various D
 - https://leetcode.com/problems/maximum-average-subarray-i/
 - https://leetcode.com/problems/contains-duplicate-ii/
 - https://leetcode.com/problems/defuse-the-bomb/
+- https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 
 
 #### Variable Size Window
