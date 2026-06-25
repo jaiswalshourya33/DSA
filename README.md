@@ -11,6 +11,7 @@ Welcome to my DSA repository! This repository contains my solutions to various D
 - https://leetcode.com/problems/contains-duplicate-ii/
 - https://leetcode.com/problems/defuse-the-bomb/
 - https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
+- https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 
 
 #### Variable Size Window
