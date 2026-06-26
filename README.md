@@ -43,3 +43,15 @@ B.Tech CSE (Data Science)
 - LinkedIn: https://www.linkedin.com/in/shourya-jaiswal-38b616297/
   
 ⭐ If you find this repository helpful, consider giving it a star!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jaiswalshourya33/DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jaiswalshourya33/DSA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
