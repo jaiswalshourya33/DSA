@@ -4,6 +4,9 @@ Welcome to my DSA repository! This repository contains my solutions to various D
 
 ## 📚 Topics Covered
 
+### Two Pointer
+- https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
 ### Sliding Window
 
 #### Fixed Size Window
