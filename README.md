@@ -18,6 +18,9 @@ Welcome to my DSA repository! This repository contains my solutions to various D
 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 - https://leetcode.com/problems/minimum-size-subarray-sum/
 
+### HashMap
+- https://leetcode.com/problems/two-sum/
+
 
 
 
