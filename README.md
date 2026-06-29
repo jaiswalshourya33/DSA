@@ -62,4 +62,12 @@ B.Tech CSE (Data Science)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jaiswalshourya33/DSA/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/jaiswalshourya33/DSA/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/jaiswalshourya33/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
