@@ -7,6 +7,7 @@ Welcome to my DSA repository! This repository contains my solutions to various D
 ### Two Pointer
 - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 - https://leetcode.com/problems/valid-palindrome/
+- https://leetcode.com/problems/container-with-most-water/
 
 ### Sliding Window
 
