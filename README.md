@@ -59,6 +59,7 @@ B.Tech CSE (Data Science)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jaiswalshourya33/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/jaiswalshourya33/DSA/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,9 +67,14 @@ B.Tech CSE (Data Science)
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jaiswalshourya33/DSA/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/jaiswalshourya33/DSA/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jaiswalshourya33/DSA/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jaiswalshourya33/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
