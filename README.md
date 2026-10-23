@@ -70,10 +70,12 @@ B.Tech CSE (Data Science)
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaiswalshourya33/DSA/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/jaiswalshourya33/DSA/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/jaiswalshourya33/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jaiswalshourya33/DSA/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/jaiswalshourya33/DSA/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
