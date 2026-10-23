@@ -61,6 +61,7 @@ B.Tech CSE (Data Science)
 | ------- |
 | [0001-two-sum](https://github.com/jaiswalshourya33/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/jaiswalshourya33/DSA/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaiswalshourya33/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ B.Tech CSE (Data Science)
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaiswalshourya33/DSA/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/jaiswalshourya33/DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaiswalshourya33/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/jaiswalshourya33/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaiswalshourya33/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/jaiswalshourya33/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -85,4 +87,8 @@ B.Tech CSE (Data Science)
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaiswalshourya33/DSA/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/jaiswalshourya33/DSA/tree/master/0680-valid-palindrome-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaiswalshourya33/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
