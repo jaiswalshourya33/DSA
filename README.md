@@ -65,6 +65,7 @@ B.Tech CSE (Data Science)
 | [0016-3sum-closest](https://github.com/jaiswalshourya33/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/jaiswalshourya33/DSA/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaiswalshourya33/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/jaiswalshourya33/DSA/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ B.Tech CSE (Data Science)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaiswalshourya33/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/jaiswalshourya33/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaiswalshourya33/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0611-valid-triangle-number](https://github.com/jaiswalshourya33/DSA/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/jaiswalshourya33/DSA/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
@@ -92,15 +94,18 @@ B.Tech CSE (Data Science)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaiswalshourya33/DSA/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/jaiswalshourya33/DSA/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/jaiswalshourya33/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaiswalshourya33/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/jaiswalshourya33/DSA/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jaiswalshourya33/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jaiswalshourya33/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/jaiswalshourya33/DSA/tree/master/0018-4sum) |
+| [0611-valid-triangle-number](https://github.com/jaiswalshourya33/DSA/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
